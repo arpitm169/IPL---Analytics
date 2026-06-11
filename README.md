@@ -33,6 +33,6 @@ This project presents an interactive Power BI dashboard analyzing Indian Premier
 - Data preprocessing (Excel / CSV datasets)
 
 ![image alt](https://github.com/arpitm169/IPL---Analytics/blob/acd43557b3fb21e5dfcfe4922c71a33b30435899/Screenshot%202026-06-11%20232741.png)
-![image alt]()
+![image alt](https://github.com/arpitm169/IPL---Analytics/blob/654dbc62e7a8bfebfb66e260badd77c04f14609e/Screenshot%202026-06-11%20232832.png)
 
 
